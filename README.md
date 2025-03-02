@@ -1,5 +1,5 @@
 # Laplacian-based-lateral-interaction
-Reproduction of paper "Lateral interaction by Lapalcian-based graph smoothing for deep neural networks" ([https://doi.org/10.1049/cit2.12265](https://doi.org/10.1049/cit2.12265))
+Reproduction of paper "Lateral interaction by Lapalcian-based graph smoothing for deep neural networks" ([https://doi.org/10.1049/cit2.12265](https://doi.org/10.1049/cit2.12265)).
 The experiment show that lateral interaction implemented by SOM model is a special case of LS-regulated k-means, and they both show the topology-preserving capability.
 ![LS-regulated-kmeans](images/LS-kmeans.png)
 
